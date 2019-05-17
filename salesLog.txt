@@ -1,0 +1,50 @@
+User Entered The Program
+User enter the name: Narinder
+Narinder has  income : 67000
+Narinder has bonus 67000
+User enter the name: bob
+bob has  income : 99000
+bob has bonus 99000
+User enter the name: fred
+fred has  income : 100000
+fred has bonus 100750
+User enter the name: lisa
+lisa has  income : 250000
+lisa has bonus 250750
+User enter the name: sarah
+sarah has  income : 999999
+sarah has bonus 1000749
+User enter the name: mary
+mary has  income : 1000000
+mary has bonus 1001500
+User Entered The Program
+User enter the name: amir
+amir has  income : 30
+amir has bonus 30
+User enter the name: gagan
+gagan has  income : 10000000
+gagan has bonus 10001500
+User Entered The Program
+User enter the name: amir
+amir has  income : 56789
+amir has bonus 56789
+User enter the name: gagan
+gagan has  income : 2345678
+gagan has bonus 2347178
+User Entered The Program
+User enter the name: ram
+ram has  income : 200
+ram has bonus 200
+User enter the name: amir
+amir has  income : 099090909
+amir has bonus 99090909
+User enter the name: amir
+amir has  income : 909099090
+amir has bonus 909100590
+User Entered The Program
+User enter the name: amir
+amir has  income : 330000
+amir has bonus 330750
+User enter the name: deepak
+deepak has  income : 4500000
+deepak has bonus 4501500

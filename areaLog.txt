@@ -1,0 +1,12 @@
+User Entered into the program
+User enter the Length of rectangle: 5.55555
+User enter the BREATH of rectangle: 6.5432
+User Exited
+User Entered into the program
+User enter the Length of rectangle: 500
+User enter the BREATH of rectangle: 300
+User Resumed the program
+User enter the Length of rectangle: 800
+User enter the BREATH of rectangle: 300
+User Exited
+User Entered into the program
